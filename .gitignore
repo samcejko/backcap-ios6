@@ -1,0 +1,11 @@
+.theos/
+obj/
+packages/
+*.deb
+*.log
+.DS_Store
+tools/local.json
+.env
+*.env
+.env.*
+layout/Library/Application Support/Backcap/licenses/

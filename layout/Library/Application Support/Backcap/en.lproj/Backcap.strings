@@ -1,0 +1,41 @@
+/* Backcap - English strings */
+
+"GroupLimit" = "Background App Limit";
+"FooterLimit" = "When you open more apps than the limit, Backcap closes the excess background app and removes its icon from the app switcher. Set to 0 to close every app as soon as you leave it with the Home button.";
+"Enabled" = "Enabled";
+"MaxApps" = "Keep Open";
+"Limit0" = "0 (Close on Home button)";
+"Limit1" = "1 app";
+"Limit2" = "2 apps";
+"Limit3" = "3 apps";
+"Limit4" = "4 apps";
+"Limit5" = "5 apps";
+"Limit6" = "6 apps";
+"LimitOff" = "Unlimited";
+
+"CloseMode" = "App to Close";
+"ModeOldest" = "Oldest in Switcher";
+"ModeLastUsed" = "Last Used Background App";
+"RemoveFromSwitcher" = "Remove Closed from Switcher";
+
+"GroupLock" = "When Turning Off Screen";
+"FooterLock" = "Closes all unused background apps when you lock the device or the screen turns off, while leaving music and active apps open.";
+"KillOnLock" = "Close Apps on Lock";
+"KeepFrontmostOnLock" = "Keep Active App on Lock";
+
+"GroupProtection" = "Active & Protected Apps";
+"FooterProtection" = "Apps playing audio in the background (such as Pandora, Music, Spot6 or Muzika), recording audio or in a call are kept open automatically. You can also protect specific apps below.";
+"KeepPlaying" = "Keep Playing & Active Apps";
+"ProtectedApps" = "Protected Apps…";
+"UserApps" = "Installed Apps";
+"SystemApps" = "System Apps";
+"NoAppsFound" = "No applications found";
+
+"GroupActions" = "Manual Cleanup";
+"FooterAbout" = "Backcap 0.1.0 by samcejko — saves your Home button and battery on iOS 6.";
+"CloseNowButton" = "Close Background Apps Now";
+"CloseNowTitle" = "Backcap";
+"CloseNowNone" = "No unused background apps are running.";
+"CloseNowOne" = "Closed 1 background app.";
+"CloseNowMany" = "Closed %d background apps.";
+"OK" = "OK";

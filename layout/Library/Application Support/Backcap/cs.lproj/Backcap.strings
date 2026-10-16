@@ -1,0 +1,41 @@
+/* Backcap - Czech strings (čeština) */
+
+"GroupLimit" = "Limit aplikací na pozadí";
+"FooterLimit" = "Když otevřeš víc aplikací, než je nastavený limit, Backcap přebytečnou aplikaci na pozadí ukončí a odebere její ikonu z přepínače. Hodnota 0 zavře každou aplikaci hned po odchodu tlačítkem plochy.";
+"Enabled" = "Zapnuto";
+"MaxApps" = "Nechat otevřeno";
+"Limit0" = "0 (Zavřít po tlačítku plochy)";
+"Limit1" = "1 aplikaci";
+"Limit2" = "2 aplikace";
+"Limit3" = "3 aplikace";
+"Limit4" = "4 aplikace";
+"Limit5" = "5 aplikací";
+"Limit6" = "6 aplikací";
+"LimitOff" = "Bez omezení";
+
+"CloseMode" = "Kterou zavřít";
+"ModeOldest" = "Nejstarší v přepínači";
+"ModeLastUsed" = "Předchozí použitou na pozadí";
+"RemoveFromSwitcher" = "Odebrat zavřené z přepínače";
+
+"GroupLock" = "Při vypnutí obrazovky";
+"FooterLock" = "Při zamknutí zařízení nebo zhasnutí obrazovky ukončí všechny nepoužívané aplikace na pozadí, ale přehrávače hudby a aktivní aplikace nechá běžet.";
+"KillOnLock" = "Zavřít aplikace při zamknutí";
+"KeepFrontmostOnLock" = "Nechat otevřenou aplikaci";
+
+"GroupProtection" = "Aktivní a chráněné aplikace";
+"FooterProtection" = "Aplikace, které na pozadí přehrávají zvuk (například Pandora, Hudba, Spot6 nebo Muzika), nahrávají zvuk nebo volají, zůstávají běžet automaticky. Další aplikace můžeš vybrat níže.";
+"KeepPlaying" = "Nechat běžet hudbu a hovory";
+"ProtectedApps" = "Chráněné aplikace…";
+"UserApps" = "Nainstalované aplikace";
+"SystemApps" = "Systémové aplikace";
+"NoAppsFound" = "Žádné aplikace nenalezeny";
+
+"GroupActions" = "Ruční vyčištění";
+"FooterAbout" = "Backcap 0.1.0 od samcejko — šetří tlačítko plochy i baterii na iOS 6.";
+"CloseNowButton" = "Zavřít aplikace na pozadí teď";
+"CloseNowTitle" = "Backcap";
+"CloseNowNone" = "Na pozadí neběží žádné nečinné aplikace.";
+"CloseNowOne" = "Ukončena 1 aplikace na pozadí.";
+"CloseNowMany" = "Ukončeno %d aplikací na pozadí.";
+"OK" = "OK";

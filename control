@@ -1,0 +1,9 @@
+Package: com.samcejko.backcap
+Name: Backcap
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Automatically closes old background apps when you open more than N apps (0-6) and closes unused background apps when you lock the device, while keeping music and active apps running.
+Maintainer: samcejko
+Author: samcejko
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 7.0)
